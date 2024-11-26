@@ -12,7 +12,7 @@ import java.sql.DriverManager;
  */
 public class Conexion {
     
-    private static String URI ="jdbc:mysql://10.144.176.69:3307/lab";
+    private static String URI ="jdbc:mysql://127.0.0.1:3307/lab";
     private static String user = "root";
     private static String pass ="root";    
     
